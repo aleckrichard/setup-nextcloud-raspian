@@ -1,2 +1,2 @@
 # setup-nextcloud-raspian
-Script de instalacción Nextcloud en raspian 10 buster
+Script de instalaccón Nextcloud en raspian 10 buster
