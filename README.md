@@ -5,5 +5,4 @@ Script de instalación Nextcloud en raspian 10 buster
 chmod +x install.sh
 
 # Ingresar como super usuario y ejecutar script
-sudo su
 sh install.sh
