@@ -2,7 +2,7 @@
 
 echo Script para instalar Nextcloud
 
-echo Creado por Richard Parker para la comunidad
+echo Creado por Aleck Richard Parker para la comunidad
 
 sleep 2s
 
